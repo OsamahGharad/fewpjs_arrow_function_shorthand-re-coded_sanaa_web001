@@ -1,6 +1,6 @@
 
-function divide(number){
-  return number /100;
+function divide(){
+  return 2000/100;
 }
 
 const square =(n)=>{return n*n }
